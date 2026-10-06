@@ -57,13 +57,6 @@ app/
 └── core/               # Segurança e dependências (JWT, permissões)
 ```
 
-## Próximos passos sugeridos
-
-- [ ] Migrações com Alembic em vez de `create_all`
-- [ ] Integração de pagamento (Stripe/Mercado Pago) em modo sandbox
-- [ ] Testes cobrindo carrinho e checkout
-- [ ] Rate limiting (ex: `slowapi`)
-- [ ] Deploy em Render/Railway/Fly.io
 
 ## Endpoints principais
 
